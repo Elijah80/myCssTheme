@@ -1,0 +1,20 @@
+@import url('https://fonts.googleapis.com/css?family=Playfair+Display|Arvo|Dosis');
+
+:root {
+    --RichBlue: #0128FF;
+    --VioletBlue: #2B00BF;
+    --CobaltBlue: #0047AB;
+    --MidnightBlue: #0A0D40;
+    --PurpleBlue: #6519DD;
+    --MintGreen: #3EB489;
+    --Cyan: #46FFD3;
+    --LightMint: #B6FFBB;
+    --Charcoal: #1F1F1F;
+    --RedOrange: #FF3F34;
+    --Cream: #FFFFE4;
+}
+
+body {
+    font-family: 'Playfair Display', Arvo, Dosis, sans-serif;
+    font-size: 16px;
+}
